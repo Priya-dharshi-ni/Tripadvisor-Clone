@@ -24,11 +24,5 @@ This project demonstrates proficiency in front-end development basics, including
 
 ![Screenshot (363)](https://github.com/user-attachments/assets/ed0d4c6c-64d2-4f79-9c93-6ffc48aaed03)
 
-## Future Enhancements
-
-- Add JavaScript for interactivity.
-- Implement dynamic features with a backend (e.g., user reviews, search functionality).
-- Enhance styling with advanced CSS techniques.
-
 
 Thank you for visiting my TripAdvisor Clone Project!
