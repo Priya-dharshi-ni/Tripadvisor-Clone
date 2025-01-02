@@ -16,7 +16,7 @@ This project demonstrates proficiency in front-end development basics, including
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://priya-dharshi-ni.github.io/Tripadvisor-Clone/
    ```
 2. Open the `index.html` file in any modern web browser.
 
